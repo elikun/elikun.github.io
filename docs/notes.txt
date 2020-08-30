@@ -1,0 +1,8 @@
+git clone https://gitlab.com/renneli/rennelongcoy.github.io.git
+
+npm install
+
+npm start
+
+http://127.0.0.1:3000/
+

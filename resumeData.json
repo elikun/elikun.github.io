@@ -2,9 +2,9 @@
   "main": {
     "name":"Rennel Ongcoy",
     "occupation":"System Engineer",
-    "description":"built from the ground up, experienced on various levels of the technology stack.",
+    "description":"experienced on various levels of the tech stack from Embedded C/C++ on Linux to Web API with NodeJS.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",

@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>Copyright &copy; 2020 <a title="Tim Baker" href="https://rennelongcoy.github.io/">Rennel Ongcoy</a></li>
+              <li>Copyright &copy; 2020 <a title="Rennel Ongcoy" href="https://rennelongcoy.github.io/">Rennel Ongcoy</a></li>
               <li>ReactJS Template by <a title="Tim Baker" href="http://www.timbakerdev.com/">Tim Baker</a></li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>

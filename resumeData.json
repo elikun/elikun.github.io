@@ -4,7 +4,7 @@
     "occupation":"System Engineer",
     "description":"experienced on various levels of the tech stack from Embedded C/C++ on Linux to Web API with NodeJS.",
     "image":"profilepic.jpg",
-    "bio":"",
+    "bio":"Hi! I'm Rennel Ongcoy. You can call me Eli. I am currently working as a Software Engineer here in Yokohama, Japan. Built from the ground up, I have started my 5+ years of software engineering journey from the hardware side of things. In my university days, I have studied different electronics and communications systems. Over time, software was incorporated more and I found it cool to interact with things in the physical world!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -19,13 +19,18 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/rennel-ongcoy",
-        "className":"fa fa-linkedin"
+        "url":"https://www.linkedin.com/in/rennelongcoy",
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"https://github.com/rennelongcoy",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
+      },
+      {
+        "name":"gitlab",
+        "url":"https://gitlab.com/renneli",
+        "className":"fab fa-gitlab"
       }
     ]
   },
@@ -75,28 +80,28 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Random Walker",
+        "category":"A C++ application to perform Random Walk on a bounded two-dimensional Qt-based virtual environment",
+        "image":"random-walker.jpg",
+        "url":"https://github.com/rennelongcoy/random-walker"
+      },
+      {
         "title":"Zugzwang",
-        "category":"A Chess game recording system using Python3, OpenCV, and TensorFlow Lite on a Raspberry Pi.",
+        "category":"A Chess game recording system using Python3, OpenCV, and TensorFlow Lite on a Raspberry Pi",
         "image":"zugzwang.jpg",
         "url":"https://github.com/rennelongcoy/zugzwang"
       },
       {
         "title":"Personal Website",
-        "category":"Source code for this website.",
-        "image":"fury-fighting-gear.jpg",
+        "category":"ReactJS-based single-page personal website",
+        "image":"personal-website.jpg",
         "url":"https://github.com/rennelongcoy/rennelongcoy.github.io"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"ROS2 Examples",
+        "category":"Examples using ROS 2 for the Packt video course \"ROS 2 - New Features\". Updated for ROS 2 Foxy Fitzroy",
+        "image":"ros2-examples.jpg",
+        "url":"https://github.com/rennelongcoy/ros2_examples"
       }
     ]
   },

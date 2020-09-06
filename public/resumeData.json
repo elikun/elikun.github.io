@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Rennel Ongcoy",
-    "occupation":"System Engineer",
-    "description":"experienced on various levels of the tech stack from Embedded C/C++ on Linux to Web API with NodeJS.",
+    "occupation":"Software Engineer",
+    "description":"experienced on various levels of the tech stack from Embedded C/C++ on Linux to NodeJS Web API's.",
     "image":"profilepic.jpg",
-    "bio":"Hi! I'm Rennel Ongcoy. You can call me Eli. I am currently working as a Software Engineer here in Yokohama, Japan. Built from the ground up, I have started my 5+ years of software engineering journey from the hardware side of things. In my university days, I have studied different electronics and communications systems. Over time, software was incorporated more and I found it cool to interact with things in the physical world!",
+    "bio":"Hi! I'm Rennel Ongcoy. You can call me Eli. I am currently working as a Software Engineer here in Yokohama, Japan. Built from the ground up, I have started my 5+ years of software engineering journey from the hardware side of things. At university, my course of study began with learning about electronics and communications systems. It later progressed to subjects in software and I found the ability to interact with the physical world using software fascinating!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",

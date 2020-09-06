@@ -7,8 +7,6 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var bio2 = this.props.data.bio2;
-      var bio3 = this.props.data.bio3;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
@@ -28,8 +26,8 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>{bio}</p>
-            <p>My <a href="https://www.linkedin.com/in/rennel-ongcoy">professional experience</a> involves projects related to digital signal processing, embedded systems, Linux-based applications with C/C++, automation scripts with Python3, and WebAPI development using NodeJS. I am looking forward in contributing to the exciting fields of Artificial Intelligence (Computer Vision) and Robotics.</p>
-            <p>In my spare time, I play badminton, table tennis, hike mountains, do <a href="https://github.com/rennelongcoy">hobby projects</a> on the side, and continue to learn Nihongo!</p>
+            <p>My <a href="https://www.linkedin.com/in/rennelongcoy">professional experience</a> involves projects related to digital signal processing, embedded systems, Linux-based applications with C/C++, automation scripts with Python3, and WebAPI development using NodeJS. I am looking forward to exploring and contributing to the fields of Artificial Intelligence (Computer Vision) and Robotics.</p>
+            <p>Outside work, you can find me indoors playing badminton or table tennis, outdoors hiking mountains, or online playing Chess. I also enjoy spending time on my <a href="https://github.com/rennelongcoy">hobby projects</a>, as well as learning Nihongo.</p>
             {/*<div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>

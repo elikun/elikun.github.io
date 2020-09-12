@@ -92,22 +92,28 @@
         "url":"https://github.com/rennelongcoy/zugzwang"
       },
       {
-        "title":"Personal Website",
-        "category":"ReactJS-based single-page personal website",
-        "image":"personal-website.jpg",
-        "url":"https://github.com/rennelongcoy/rennelongcoy.github.io"
+        "title":"Learning AI",
+        "category":"GitHub repository for self-studying Artificial Intelligence, Machine Learning, and Deep Learning.",
+        "image":"ml-stanford.jpg",
+        "url":"https://github.com/rennelongcoy/learn-ai"
       },
       {
         "title":"ROS2 Examples",
         "category":"Examples using ROS 2 for the Packt video course \"ROS 2 - New Features\". Updated for ROS 2 Foxy Fitzroy",
-        "image":"ros2-examples.jpg",
+        "image":"ros2-examples-foxy.jpg",
         "url":"https://github.com/rennelongcoy/ros2_examples"
       },
       {
         "title":"Dockerized ROS2 Desktop Environment",
-        "category":"LXQt-based environment with Gazebo 11 access via VNC.",
+        "category":"LXQt-based environment with Gazebo 11 accessed via VNC.",
         "image":"docker-ros2-desktop.jpg",
         "url":"https://github.com/rennelongcoy/docker-ros2-desktop"
+      },
+      {
+        "title":"Personal Website",
+        "category":"ReactJS-based single-page personal website",
+        "image":"personal-website.jpg",
+        "url":"https://github.com/rennelongcoy/rennelongcoy.github.io"
       }
     ]
   },
